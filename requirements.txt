@@ -13,7 +13,7 @@ pytest==2.2.4
 pytest-cov==1.6
 pytz==2014.10
 requests==2.0.1
-rsa==3.1.4
+rsa==4.1
 simplejson==3.6.5
 six==1.9.0
 suds-jurko==0.6
